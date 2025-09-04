@@ -103,8 +103,8 @@ This section defines reusable time-based transformations using Calculation Group
 > - Formulas are adaptable to DAX, SQL, or other BI environments.
 
 # Dashboard Design
-|                                       |
-|---------------------------------------|
+|                                                                                                                                   |
+|-----------------------------------------------------------------------------------------------------------------------------------|
 | KIPs  that could provide us with a simple Overview of the company's Sales statement. | 
 |                                                                                     |
 |<img width="500" height="289" alt="image" src="https://github.com/user-attachments/assets/fc621312-15e8-489b-a94b-8334787ec451" />|
