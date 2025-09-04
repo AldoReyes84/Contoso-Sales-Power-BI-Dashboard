@@ -10,24 +10,27 @@ The goal is to showcase my work path while building a Power BI solution, focusin
 
 Other skills, like data modeling or data analysis, will be shown in other projects.
 
-<img width="550" height="393" alt="image" src="https://github.com/user-attachments/assets/090237de-2860-467d-807c-d9399e9ba881" />
+|<img width="550" height="393" alt="image" src="https://github.com/user-attachments/assets/090237de-2860-467d-807c-d9399e9ba881" />|
+|:--:|
+|<small><em>Figure 1: Contoso Sales Data Model</em></small>|
+
+## Metrics Analysis
 
 At first glance, one might assume that SalesAmount equals UnitPrice × SalesQuantity.
 
-  Check SalesAmount = CALCULATE(SUM('Product'[UnitPrice])*SUM(Sales[SalesQuantity]))
+Check SalesAmount = CALCULATE(SUM('Product'[UnitPrice])*SUM(Sales[SalesQuantity]))
 
 However, when testing this logic, the result exceeds the actual SalesAmount, suggesting that discounts are already factored in. This implies that SalesAmount represents net revenue after applying DiscountAmount.
 
-  SalesAmount Cal = [Check SalesAmount]-Sum(Sales[DiscountAmount])
+SalesAmount Cal = [Check SalesAmount]-Sum(Sales[DiscountAmount])
 
 <img width="500" height="141" alt="image" src="https://github.com/user-attachments/assets/bab0161c-eac4-491d-8fcd-694777031289" />
 
-## Excel Metrics Analysis
 
 <img width="320" height="439" alt="image" src="https://github.com/user-attachments/assets/bf6ecf70-1e95-419d-87e6-50a3c28a3b66" />
 
 
-# 📘 Metrics Glossary – Contoso Sales Dashboard
+# 📘 Metrics Glossary
 
 This glossary defines the key metrics used in the Contoso Sales analysis. Each entry includes a description, a suggested formula, and a DAX implementation example for Power BI.
 
@@ -99,7 +102,7 @@ This section defines reusable time-based transformations using Calculation Group
 > - Ensure consistency between `UnitPrice` and `UnitCost` across tables.  
 > - Formulas are adaptable to DAX, SQL, or other BI environments.
 
-|  ## Dashboard Desing & Story Telling  |
+|  # Dashboard Design  |
 |---------------------------------------|
 | KIPs  that could provide us with a simple Overview of the company's Sales statement. | 
 |                                                                                     |
