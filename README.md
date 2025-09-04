@@ -102,7 +102,8 @@ This section defines reusable time-based transformations using Calculation Group
 > - Ensure consistency between `UnitPrice` and `UnitCost` across tables.  
 > - Formulas are adaptable to DAX, SQL, or other BI environments.
 
-|  # Dashboard Design  |
+# Dashboard Design
+|                                       |
 |---------------------------------------|
 | KIPs  that could provide us with a simple Overview of the company's Sales statement. | 
 |                                                                                     |
