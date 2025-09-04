@@ -102,8 +102,9 @@ This section defines reusable time-based transformations using Calculation Group
 > - Ensure consistency between `UnitPrice` and `UnitCost` across tables.  
 > - Formulas are adaptable to DAX, SQL, or other BI environments.
 
-# Dashboard Design
-|                                                                                                                                   |
+# Dashboard Design 
+
+| Select Key Visualizations                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------|
 | KIPs  that could provide us with a simple Overview of the company's Sales statement. | 
 |                                                                                     |
@@ -140,7 +141,7 @@ This section defines reusable time-based transformations using Calculation Group
 | Most profitable products interactive with the rest of the dashboard|
 |                                                                    |
 | <img width="500" height="289" alt="image" src="https://github.com/user-attachments/assets/cbdfc629-cda1-410e-9268-0f35a25b0d9e" /> |
-|                                                                                                                                     |
+                                                                                                                                     
 
 
 The Story here is, KPI's are showing a healty preformance for 2013 55.79% NetMargin with low ReturnRate and DiscountAmount
