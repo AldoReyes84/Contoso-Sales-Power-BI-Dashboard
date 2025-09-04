@@ -1,6 +1,14 @@
 # Contoso Sales Power BI-Dashboard
 
-Source Model, Contoso Sales Sample for Power BI data Model 
+## Overview
+
+This project will create a **Power BI** dashboard with the source Contoso Sales Sample for Power BI, data Model 
+
+The scope is to build an overview page and provide data insights about the current situation of the company (YTD 2013)
+
+The goal is to showcase my work path while building a Power BI solution, focusing solely on critical thinking and decision-making regarding the type of metrics, visualizations, and design elements to make the information easy to read and consume. 
+
+Other skills, like data modeling or data analysis, will be shown in other projects.
 
 <img width="550" height="393" alt="image" src="https://github.com/user-attachments/assets/090237de-2860-467d-807c-d9399e9ba881" />
 
@@ -93,11 +101,11 @@ This section defines reusable time-based transformations using Calculation Group
 
 |  ## Dashboard Desing & Story Telling  |
 |---------------------------------------|
-| KIP´s  that could provide us with a simple Overview of the company Sales statement. | 
+| KIPs  that could provide us with a simple Overview of the company's Sales statement. | 
 |                                                                                     |
 |<img width="500" height="289" alt="image" src="https://github.com/user-attachments/assets/fc621312-15e8-489b-a94b-8334787ec451" />|
 |                                                                                                                                   | 
-| Yearly Table to have a better perspective of the metrics comparing throuh time.                                                   |
+| Yearly Table to have a better perspective of the metrics comparing through time.                                                   |
 |                                                                                                                                   |
 | <img width="500" height="186" alt="image" src="https://github.com/user-attachments/assets/ebc830f8-22d7-43d4-b64e-464e8ebfbed0" /> |
 |                                                                                                                                    |
